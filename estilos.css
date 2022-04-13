@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body {
+	background: ;
+
+}
+
+h2 {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 400;
+}
+
+.contenedor{
+	width: 250px;
+	height: 600px;
+	border: 1px solid black;
+	margin: 0 auto;
+	background: white;
+
+}
+
+.imagen{
+	margin-top: 30px;
+}
+
+.punto{
+	margin-top: 60px;
+	margin-left: 90px;
+}
+.barra{
+	margin-left: 20px;
+}
+
+.play {
+	background: url(file:///C:/Users/a06/Downloads/Ellipse%2021.png);
+	width: 50px;
+	height: 50px;
+}
